@@ -1,7 +1,0 @@
-{
-  "name": "zarinclick-app",
-  "version": "1.0.0",
-  "dependencies": {
-    "pg": "^8.11.0"
-  }
-}
